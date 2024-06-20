@@ -1,0 +1,11 @@
+{
+    "name": "bestuser/detecteurmada",
+    "autoload": {
+        "psr-4": {
+            "Bestuser\\Detecteurmada\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
